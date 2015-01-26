@@ -3,9 +3,9 @@
    "type": "dir",
    "contents": [
       {
-         "name": "file1",
+         "name": "WELCOME",
          "type": "text",
-         "contents": "Hello World!",
+         "contents": "Welcome to this site",
          "description": "FOOO"
       },
       {
